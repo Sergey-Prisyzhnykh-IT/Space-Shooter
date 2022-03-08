@@ -1,6 +1,6 @@
 [![CodeFactor](https://www.codefactor.io/repository/github/itstep-vrn/tankbattle/badge/class-game-realization)]([![CodeFactor](https://www.codefactor.io/repository/github/sergey-prisyzhnykh-it/space-shooter/badge)](https://www.codefactor.io/repository/github/sergey-prisyzhnykh-it/space-shooter))
 
-![Alt-текст](img/Logo.jpg)
+![Alt-текст](img/Logo.JPG)
 
 + **Год выпуска: 2022**
 + **Жанр: Космический шутер**
